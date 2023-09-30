@@ -1,6 +1,5 @@
 # Basic Text Editor Web App
 Text Editor is a project aimed at creating a straightforward yet functional web-based text editor. It serves as an accessible and user-friendly platform for basic text-related tasks.
-Create a web-based text editor using HTML and JavaScript that allows users to create, edit, and save plain text documents.
 
 - Link : [Click Here](https://text-editor-sg.netlify.app/)
 
